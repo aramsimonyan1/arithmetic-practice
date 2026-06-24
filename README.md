@@ -47,24 +47,6 @@ Users can configure the type of arithmetic operations they want to practice, cho
 * Tkinter
 * Object-Oriented Programming (OOP)
 
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/math-practice-generator.git
-cd math-practice-generator
-```
-
-Create and activate a virtual environment:
-
-### Windows
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
 ### Linux / macOS
 
 ```bash
