@@ -47,18 +47,6 @@ Users can configure the type of arithmetic operations they want to practice, cho
 * Tkinter
 * Object-Oriented Programming (OOP)
 
-### Linux / macOS
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Running the Application
 
