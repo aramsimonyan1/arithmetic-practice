@@ -1,10 +1,10 @@
 # Math Practice Generator
 
-A desktop-based arithmetic training application built with Python and CustomTkinter. The application generates customizable math exercises covering addition, subtraction, multiplication, and division, allowing users to practice their calculation skills through an intuitive graphical interface.
+A desktop-based arithmetic training application built with `Python` and `CustomTkinter`. The application generates customizable math exercises covering addition, subtraction, multiplication, and division, allowing users to practice their calculation skills through an intuitive graphical interface.
 
 ## Features
 
-* Modern graphical user interface built with CustomTkinter
+* Modern graphical user interface built with `CustomTkinter`
 * Practice addition, subtraction, multiplication, and division
 * Select one or multiple operators for each practice session
 * Configure the number of operators per question
