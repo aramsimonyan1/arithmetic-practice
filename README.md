@@ -4,8 +4,8 @@ A desktop-based arithmetic training application built with `Python` and `CustomT
 
 ## Features
 
-* Modern graphical user interface built with `CustomTkinter`
-* Practice addition, subtraction, multiplication, and division
+* Modern graphical user interface built with CustomTkinter
+* Practice `addition`, `subtraction`, `multiplication`, and `division`
 * Select one or multiple operators for each practice session
 * Configure the number of operators per question
 * Optional maximum result limit to control question complexity
